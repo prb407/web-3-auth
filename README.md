@@ -55,8 +55,7 @@ I adopted the `BEM` naming style for my css class names and ...
 
 List of contriubutors:
 
-- [Pritesh](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+- [Pritesh](https://github.com/prb407)
 
 ## License
 
